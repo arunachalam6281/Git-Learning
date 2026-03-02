@@ -1,7 +1,7 @@
 ## Hello, Git!
 
-## Welcome, Git!
+## Hello Everyone,Welcome to the Git !!!!
 
-- This is from Branch A
+- I'm adding this from ABC
 
 - I'm adding this from 'branchB'
